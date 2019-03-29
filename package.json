@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Gridsome source to read JSON or YAML objects in static files into GraphQL metaData",
   "main": "index.js",
+  "homepage": "https://github.com/onecrayon/gridsome-source-static-meta#readme",
   "repository": "https://github.com/onecrayon/gridsome-source-static-meta",
   "license": "ISC",
   "keywords": [
