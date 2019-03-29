@@ -1,0 +1,24 @@
+{
+  "name": "gridsome-source-static-meta",
+  "version": "1.0.0",
+  "description": "Gridsome source to read JSON or YAML objects in static files into GraphQL metaData",
+  "main": "index.js",
+  "repository": "https://github.com/onecrayon/gridsome-source-static-meta",
+  "license": "ISC",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source"
+  ],
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "globby": "^9.1.0",
+    "json-parse-better-errors": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
