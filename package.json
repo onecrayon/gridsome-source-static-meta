@@ -12,12 +12,12 @@
     "gridsome-source"
   ],
   "dependencies": {
-    "fs-extra": "^7.0.1",
-    "globby": "^9.1.0",
+    "fs-extra": "^8.1.0",
+    "globby": "^10.0.1",
     "json-parse-better-errors": "^1.0.2"
   },
   "devDependencies": {
-    "eslint": "^5.15.3"
+    "eslint": "^6.2.0"
   },
   "engines": {
     "node": ">=8"
